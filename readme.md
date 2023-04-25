@@ -15,4 +15,4 @@ Scans can be viewed in the PointCloud viewer on the webpage
 
 ### Topics
 
-Remote-Device, Scan, Point-Cloud, Acquisition, Sample, SICK-AppSpace
+remote-device, scan, point-cloud, acquisition, sample, sick-appspace
