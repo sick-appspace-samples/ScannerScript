@@ -30,7 +30,7 @@ gTransformer = Scan.Transform.create()
 
 --Start of Function and Event Scope---------------------------------------------
 
--- Callback function to process new scans
+---Callback function to process new scans
 function gHandleOnNewScan(scan)
   -- View the scan on the Scan viewer on the webpage.
   View.view(gViewer, scan)
